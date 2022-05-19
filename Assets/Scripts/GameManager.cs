@@ -90,7 +90,6 @@ public class GameManager : MonoBehaviour
 
     private void HandleFailed()
     {
-        //Voice line tähän
         Debug.Log("Current State: " + State);
         nextState = GameState.WashHands;
         UpdateGameState(GameState.WashHands);

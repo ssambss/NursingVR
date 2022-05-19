@@ -8,6 +8,7 @@ public class WrongEquipmentTrigger : MonoBehaviour
     {   
         if (other.gameObject.CompareTag("WrongLine"))
         {
+            GameManager.instance.wrongBag = true;
             GameManager.instance.wrongLine = true;
             GameManager.instance.UpdateGameState(GameManager.GameState.FailedEquipment);
         }

@@ -5662,7 +5662,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Teleporttaus
+  m_text: "T\xF6kk\xE4isy"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -35995,7 +35995,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Huoneet
+  m_text: Liikkuminen
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -37390,7 +37390,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1663704384}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 833199e7b0e58464ea39d3bc8ede982e, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: b7bbb79412d8169488dcc7cb527916bf, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -40300,7 +40300,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1853404705}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 4f186fef0d48d2b49a1a32b28fe1c28e, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: df73e01f6a42240489997676766dc950, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
